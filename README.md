@@ -19,7 +19,7 @@
 
 <h2 align="center">About Me</h2>
 <p align="center">
-I'm a data enthusiast with a passion for transforming raw data into actionable insights. I enjoy working with real-world datasets, performing analysis, and visualizing results to support data-driven decision-making.  
+"I’m a data detective on a mission to turn chaotic CSVs into beautiful stories—mostly powered by Python and a dangerous amount of caffeine."
 </p>
 
 ---
@@ -80,12 +80,11 @@ I'm a data enthusiast with a passion for transforming raw data into actionable i
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://ghchart.rshah.org/Username
-" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/Roma-Revolving" alt="GitHub Contribution Chart" />
 </p>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Users&theme=default" alt="GitHub Streak" width="40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roma-Revolving&theme=default" alt="GitHub Streak" width="40%">
 </div>
 
 ---
