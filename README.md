@@ -1,6 +1,6 @@
 <!--Profile Picture -->
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D03AQE43mYc_YVMDA/profile-displayphoto-crop_800_800/B4DZt1eWp3HwAI-/0/1767202452473?e=1774483200&v=beta&t=R_LtCQFkA2aQIMDm-un9b2y5zSJFysZM6LGkpWM9WBE" alt="Profile Picture" width="150" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D03AQHcQhDi4brLXQ/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1679638072059?e=1776902400&v=beta&t=sOYbNYNG3pTr0qAZ3yCE6EqLVXPfka8SI0Kn_vNppz4" alt="Profile Picture" width="150" />
 </p>
 
 
@@ -8,7 +8,7 @@
 <h2 align="center">Data Analysis | Data Science </h2>
 
 <h2 align="center">About Me</h2>
-  <p align="center">I’m a data detective on a mission to turn chaotic CSVs into beautiful stories—mostly powered by Python and a dangerous amount of caffeine.
+  <p align="center">I’m a data detective on a mission to turn chaotic CSVs into beautiful stories mostly powered by Python and a dangerous amount of caffeine.
 </p>
 
 ---
