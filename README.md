@@ -11,7 +11,9 @@
   <p align="center">I’m a data detective on a mission to turn chaotic CSVs into beautiful stories mostly powered by Python and a dangerous amount of caffeine.
 </p>
 
----
+<p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmQwdWQ3ejdtMTZrNDNlMjJobTV0c3JmMTE3am1wcHR3b2JrOHJ2dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cNTobeyDPsv9xUeAOR/giphy.gif">
+</p>
 
 <h2 align="center">Skills & Tools</h2>
 
