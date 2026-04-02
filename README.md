@@ -7,19 +7,8 @@
 <h1 align="center">Hi, I'm Roma ☺️</h1>
 <h2 align="center">Data Analysis | Data Science </h2>
 
----
-
-
-<div align="center">
-<a href="https://github.com/UserNameHere"><h2>View My Portfolio</h2></a>
-</div>
-
-
----
-
 <h2 align="center">About Me</h2>
-<p align="center">
-"I’m a data detective on a mission to turn chaotic CSVs into beautiful stories—mostly powered by Python and a dangerous amount of caffeine."
+  <p align="center">I’m a data detective on a mission to turn chaotic CSVs into beautiful stories—mostly powered by Python and a dangerous amount of caffeine.
 </p>
 
 ---
@@ -94,13 +83,22 @@
 
 <ul>
   <li>
-  <strong>Bitcoin Analyiz:</strong> 
-  <a href="#">REPO LINK</a> | 
-  <a href="#">LIVE DEMO</a></li>
+    <strong>Project 1:</strong> 
+    <a href="#">REPO LINK</a> | 
+    <a href="#">LIVE DEMO</a>
+  </li>
 
-  <li><strong>Project 2:</strong> <a href="#">REPO LINK</a> | <a href="#">LIVE DEMO</a></li>
+  <li>
+    <strong>Project 2:</strong> 
+    <a href="#">REPO LINK</a> | 
+    <a href="#">LIVE DEMO</a>
+  </li>
   
-  <li><strong>Project 3:</strong> <a href="#">REPO LINK</a> | <a href="#">LIVE DEMO</a></li>
+  <li>
+    <strong>Project 3:</strong> 
+    <a href="#">REPO LINK</a> |
+    <a href="#">LIVE DEMO</a>
+  </li>
 </ul>
 
 ---
@@ -116,20 +114,15 @@
 
 ## Connect With Me
 <p align="center">
-<!-- linkdin-->
-  <a href="YOUR LINKDIN URL" target="_blank">
+  <!-- linkdin-->
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-007ACC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!-- Email -->
+  
+  <!-- Email -->
   <a href="YOUR_EMAIL_HERE">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
-  <a href="YOUR_Facebook_LINK_HERE" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=FB&logoColor=white" alt="Facebook"/>
-  </a>
-
 </p>
-
-<p align="center"><strong>Thanks for visiting!</strong></p>
 
